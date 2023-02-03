@@ -9,6 +9,14 @@ function initMap() {
         { lat: 59.6738319, lng: 10.6057555 },
         { lat: 65.0931801, lng: 28.9032142 },
         { lat: 57.9286866, lng: -5.1976373 },
+        { lat: 59.34096331, lng: 28.13045578 },
+
+
+        { lat: 56.6405366, lng: 8.7819477 },
+        { lat: 30.2417765, lng: -97.7268773 },
+
+
+
     ];
 
     randomLoc = locArray[Math.floor(Math.random() * locArray.length)];
